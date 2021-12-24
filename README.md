@@ -21,8 +21,12 @@ In this project I was given starter code and was tasked with cleaning it up(Scou
 
 ### General Fixes 
 
-- I fixed the nav bar.  One of the links did not bring the page to desired labeled sections.  It was missing a "id" 
+- I fixed the a link in the nav bar.  One of the links did not bring the page to desired labeled sections.  It was missing a "id"  Functionalbity fix. 
 
 ## How it went:
 
-Overal I think the assignment went well.  I'm still unsure if I labeled the alt element in hero correctly but otherwise I'm pretty confident in all the other work.  Great first project.  
+Overal I think the assignment went well.  I'm still unsure if I labeled the alt element in hero correctly but otherwise I'm pretty confident in all the other work.  Great first project.  The site is better then how I found it.  
+
+Here are some images of the site:
+! [Image-of-Main-Page](/assets/images/Main-Page.png)
+! [Image-of-Content-Page](/assets/images/Content.png)
